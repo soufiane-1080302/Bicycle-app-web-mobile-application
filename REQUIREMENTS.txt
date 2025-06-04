@@ -1,0 +1,20 @@
+db
+Flask
+Flask-SQLAlchemy
+flask-CORS
+Blueprint
+Jsonify
+datetime
+request
+
+**REACT IMPORTS**
+npm install
+npm install @react-navigation/stack
+npm install @react-navigation/stack
+npm install expo-router
+
+npx install
+npx expo install @react-native-async-storage/async-storage
+npx expo install react-navigation react-navigation-stack @react-navigation/native
+npx expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native=community/masked-view
+
