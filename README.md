@@ -1,5 +1,6 @@
-# werkplaats-4-inhaalopdracht-fietsapp
-Template voor WP4 inhaalopdracht "fietsapp". Vul dit document aan zoals beschreven in de [opdracht](CASUS.md). 
+# Fietsapp  
+Dit was een individueel project voor mijn studie, dat ik had gemaakt tijdens mijn Associate Degree - Software Developer studie op het Hogeschool Rotterdam.
+
 
 **DISCLAMER:**
 Voordat je zowel de web als de mobiele applicatie opstart, moet je daarvoor de main.py laten runnen door erop te klikken met je rechtermuisknop en dan "Run 'main'" klikken. zodra je het ziet op tonen volledig runnen in de run terminal, alleen  dan doe je de run command voor de web/mobiel applicatie/
