@@ -3,7 +3,7 @@ Dit was een individueel project voor mijn studie, dat ik had gemaakt tijdens mij
 
 
 **DISCLAMER:**
-Voordat je zowel de web als de mobiele applicatie opstart, moet je daarvoor de main.py laten runnen door erop te klikken met je rechtermuisknop en dan "Run 'main'" klikken. zodra je het ziet op tonen volledig runnen in de run terminal, alleen  dan doe je de run command voor de web/mobiel applicatie/
+Voordat je zowel de web als de mobiele applicatie opstart, moet je de imports installeren allemaal dat te bevinden is in de 'REQUIREMENTS.txt' file, nadat moet je de main.py laten runnen door erop te klikken met je rechtermuisknop en dan "Run 'main'" klikken. zodra je het ziet op tonen volledig runnen in de run terminal, alleen  dan doe je de run command voor de web/mobiel applicatie/
 
 # Webapplication
 npm install en installeer iedere import vanuit de backend
