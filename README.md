@@ -5,12 +5,12 @@ Dit was een individueel project voor mijn studie, dat ik had gemaakt tijdens mij
 **DISCLAMER:**
 Voordat je zowel de web als de mobiele applicatie opstart, moet je de imports installeren allemaal dat te bevinden is in de 'REQUIREMENTS.txt' file, nadat moet je de main.py laten runnen door erop te klikken met je rechtermuisknop en dan "Run 'main'" klikken. zodra je het ziet op tonen volledig runnen in de run terminal, alleen  dan doe je de run command voor de web/mobiel applicatie/
 
-# Webapplication
+# Web application
 npm install en installeer iedere import vanuit de backend
 npm start
 
 
-# Mobileapplication
+# Mobile application
 npx expo start. je krijgt dan verschillende opties qua keys dat je kunt drukken vanuit je keyboard. Indien jij een android emulator hebt aanstaan runnend en ready druk dan op de key 'a'. Indien het niet werkt of geen actieve android emulator aan hebt staan, druk dan op de key 'w' om zo de mobiele applicatie op je browser te kunnen zien.
 
 # Bronvermelding
